@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My booking app</string>
+    <string name="fix_title_starring">Starring</string>
+    <string name="fix_title_running_time">Running Time</string>
+    <string name="min">mins</string>
+    <string name="selectSeats">Select Seats</string>
+    <string name="seatsRemaining">seats remaining</string>
+    <string name="credit">https://www.myvue.com/</string>
+    <string name="credits">Credit: </string>
+</resources>
